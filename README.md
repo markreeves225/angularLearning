@@ -27,4 +27,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## This is learning path towards Angular js
-I have created this project with the reference of following site (https://www.techiediaries.com/build-angular-form/).
+This project has been created with the reference of following site (https://www.techiediaries.com/build-angular-form/).
